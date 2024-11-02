@@ -1,6 +1,16 @@
 # qr-code-android-app [OLD PROJECTS]
 In 2021 I built a qr-code android native app to provide my mom a quick way to scan qr menus at restaurants
 
+[logo](./guide/logo.png)
+
+## Views
+
+Check below the views of the app
+
+[scanning qr code](./guide/screen1.jpeg)
+[scanning qr code](./guide/screen2.jpeg)
+[scanning qr code](./guide/screen3.jpeg)
+
 
 ## About
 
