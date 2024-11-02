@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="letScanSomething">Vamos a escanear algo...!</string>
+    <string name="goToSite">Ir al sitio -></string>
+</resources>
