@@ -9,4 +9,4 @@ In 2021 I built an android native application, aims to provide a quick way to sc
 
 I used to don't share my code at all, now I wanna create a collection with old projects and share them with the community as a way to show my progress and how I've evolved as a developer.
 
-The app is built using Java and Android Studio. The app is not published on the Google Play Store, but you can clone the repository and build the app yourself.
+The app is built using Kotlin and Android Studio. The app is not published on the Google Play Store, but you can clone the repository and build the app yourself.
